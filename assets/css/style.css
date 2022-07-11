@@ -1,0 +1,12 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+.triangle-container {
+  margin-top: 5em;
+  width: 0;
+  height: 0;
+  border-bottom: 5vh solid #000123;
+  border-left: 100vw solid transparent;
+  z-index: 2;
+  position: relative;
+}
