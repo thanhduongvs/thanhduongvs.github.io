@@ -57,6 +57,16 @@ a:hover {
   transition: transform .2s,-webkit-transform .2s;
 }
 
+.navbar-custom {
+  background-color: #000123;
+}
+/* Modify brand and text color */
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: #fff;
+}
+
 .maps-wrapper {
   height: 320px;
 }
