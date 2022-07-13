@@ -458,3 +458,12 @@ a:hover {
     width:100%
   }
 }
+
+/**/
+.image-blurred-edge {
+  background-image: url('https://www.pcb-arts.com/en/electronics.b1b21282.jpg');
+  width: 100%;
+  height: 100%;
+  /* you need to match the shadow color to your background or image border for the desired effect*/
+  box-shadow: 0 0 8px 8px #000123 inset;
+}
